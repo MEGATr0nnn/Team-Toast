@@ -2,7 +2,7 @@
 
 Team Members:
 1. Shanthu Jayamaha (n11579561)
-2. Steven
+2. Steven Hujbert (n11084952)
 3. Vuyo Manyepe
 4. Harrison Mega (n11526360)
 
