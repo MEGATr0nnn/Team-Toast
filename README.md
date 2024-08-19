@@ -13,6 +13,7 @@ Team Roles:
 2. Steven - Full Stack Developer (Developer)
 3. Vuyo - Front End Specialist (Developer)
 4. Harrison - SCRUM Leader and Backend Developer
+   
 
 # Project Overview
 Choson Project:
