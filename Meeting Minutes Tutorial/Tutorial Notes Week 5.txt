@@ -4,3 +4,4 @@
 - Create a Database Flow Diagram (DFD)
 - Assign the Story Points for each User Story 
 - Group User Stories into the core features and assign to group members
+- Apply MOSCOW to User Stories
