@@ -1,4 +1,4 @@
-# Team-Toast
+# Team-Toast CAB302 (Software Development)
 
 Team Members:
 1. Shanthu Jayamaha (n11579561)
