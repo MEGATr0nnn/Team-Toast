@@ -8,11 +8,13 @@
 
 
 
-## Team Roles:
+## Team Outline:
 1. Shanthu - Project Manager and Full Stack Developer
-2. Steven - Full Stack Developer (Developer)
+2. Harrison - SCRUM Leader, Backend Developer and Repository Owner
 3. Vuyo - Front End Specialist (Developer)
-4. Harrison - SCRUM Leader and Backend Developer
+4. Steven - Full Stack Developer (Developer)
+   
+
    
 
 # Project Overview
